@@ -20,4 +20,8 @@ download the compressed file from **Release module** and use pip install
 
     pip install PATH/TO/FILE/allendigger-1.0.tar.gz
 
+## Quick start
+
+see [example](https://github.com/xiaoqunwang-lab/Allendigger/blob/main/example.ipynb) for a quick start of Allendigger
+
 ## Citation
