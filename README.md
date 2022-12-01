@@ -5,7 +5,7 @@ Allendigger serves as database to provide easy access to expression data with st
 ## Introduction
 
 Spatial transcriptomics is helpful to capture tissue architecture and cell spatial organization which has facilitated further understandings of biological process including developmental biology, cancer and neuroscience. However, compared to its technical challenge and immature data analysis method, ABA provides a great source for spatial expression data of mouse brains from E11.5 to Adult developing period. While the portal developed to query its data is not very handy to biologists, Allendigger allows more friendly access to visualize the spatial expression data, deciphers spatial heterigeneity of brain, and register cells to anatomical brain regions by single cell expression data.
-![figure]()
+![figure](/figure.png)
 
 ## Dependencies
 
